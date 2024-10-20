@@ -1,0 +1,6 @@
+@ComparisionEcomPlatforms_BackEnd_HostAddress = http://localhost:5182
+
+GET {{ComparisionEcomPlatforms_BackEnd_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
